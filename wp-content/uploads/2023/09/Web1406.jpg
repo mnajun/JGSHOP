@@ -1,0 +1,58 @@
+
+
+  
+    
+    
+    
+    <title>CITY GIRL is under construction</title>
+    
+    
+    <link rel="stylesheet" href="https://fonts.bunny.net/css?family=Montserrat:400,700">
+    <link rel="stylesheet" href="https://citygirl.com.ar/wp-content/plugins/under-construction-page/themes/css/bootstrap.min.css?v=3.97" type="text/css">
+<link rel="stylesheet" href="https://citygirl.com.ar/wp-content/plugins/under-construction-page/themes/css/common.css?v=3.97" type="text/css">
+<link rel="stylesheet" href="https://citygirl.com.ar/wp-content/plugins/under-construction-page/themes/plain_text/style.css?v=3.97" type="text/css">
+<link rel="stylesheet" href="https://citygirl.com.ar/wp-content/plugins/under-construction-page/themes/css/font-awesome.min.css?v=3.97" type="text/css">
+<link rel="icon" href="https://citygirl.com.ar/wp-content/plugins/under-construction-page/themes/images/favicon.png" />
+<style type="text/css">body, .container {background-color: #000000; color: #FFFFFF;}
+header{display: none;}
+h2{
+
+}</style>
+  
+
+  
+    <header>
+      <span id="logo-wrap">
+        <img src="https://citygirl.com.ar/wp-content/plugins/under-construction-page/themes/plain_text/ucp-cog.png" alt="Site is Under Construction" title="Site is Under Construction" id="logo">
+      </span>
+    </header>
+
+    <div class="container">
+
+      <div class="row">
+        <div class="col-xs-12 col-md-12 col-lg-12">
+          <h1></h1>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-xs-12 col-md-8 col-md-offset-2 col-lg-offset-2 col-lg-8">
+          <p class="content"><img class="aligncenter" src="https://citygirl.com.ar/wp-content/uploads/2023/06/Logo-city-en-negro-1-1.jpg" alt="" width="193" height="193" /><br />
+<strong><h2 style="text-align: center">¡Nos estamos recargando de muchas sorpresas para seguir potenciando tu belleza!</h2><br />
+<h3>Sucursales:</h3><br />
+<h3>Mdem by City Girl Peron 2528 Compra acá: WhatsApp <a href="https://mdem.com.ar/">https://mdem.com.ar/</a><br />
+Pandora secret Castelli 124 Compra acá: Tienda online <a href="http://www.pandorasecret.com.ar" target="_blank">www.pandorasecret.com.ar</a><br />
+City Fashion Sarmiento 2728 Compra acá: Tienda online <a href="http://www.cityfashion.com.ar" target="_blank">www.cityfashion.com.ar</a></h3></strong></p>
+        </div>
+      </div>
+
+      <div class="row" id="social">
+        <div class="col-xs-12 col-md-12 col-lg-12">
+          
+        </div>
+      </div>
+
+    </div>
+    <div id="login-button" class="loggedout"><a href="https://citygirl.com.ar/wp-login.php"><i class="fa fa-wordpress fa-2x" aria-hidden="true"></i></a></div>
+  
+
